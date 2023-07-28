@@ -25,7 +25,7 @@ npm test
 ## Usage
 The user must first download the repository from GitHub and install the required dependancies. Once the application has been set up, the user can start the application typing ```npm start``` in the command line. The user will then be prompted choose the text, text color, shape, and shape color of the logo. Once the user has inputed their responses, the logo will be generated in the examples folder.
 
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/16UyYjU8Ue6lUl0YpuV1ymAmtE1WtjQD8/view?usp=drive_link)
 ## Learning Points
 * Usng jest when testing code
 * Utilizing objects to modularize code
